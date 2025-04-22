@@ -1,3 +1,6 @@
+
+// Implement a function that finds the maximum element in an array using linear search.
+
 public class MaxElementLinearSearch {
 
     // Function to find maximum element
@@ -28,3 +31,9 @@ public class MaxElementLinearSearch {
         System.out.println("\nMaximum element in the array: " + maxValue);
     }
 }
+
+
+// output:
+// Array:
+// 45 12 98 23 76 3 
+// Maximum element in the array: 98
